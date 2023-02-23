@@ -104,6 +104,10 @@ status after the GitHub workflow has recovered.
 
 
 
+![Figures/githubflowjpg](https://github.com/HARRY2414/spring-petclinic/blob/master/Figures/githubflow.png)
+
+
+
 
 
 ![Figures/One-commandjpg](https://github.com/HARRY2414/spring-petclinic/blob/master/Figures/One-command.png)
