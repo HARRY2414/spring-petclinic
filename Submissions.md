@@ -9,4 +9,4 @@ changed to update the badge.
 This Image shows- GitHub Actions dashboard showing a successful first build.
 
 
-![Figures/.Maven Passingjpg] (https://github.com/HARRY2414/spring-petclinic/blob/master/Figures/Maven%20Passing.png)
+![Figures/.Maven Passingjpg](https://github.com/HARRY2414/spring-petclinic/blob/master/Figures/Maven%20Passing.png)
