@@ -12,6 +12,14 @@ changed to update the badge.
 ---> This Image shows- GitHub Actions dashboard showing a successful first build.
 
 
+
+![Figures/maven2jpg](https://github.com/HARRY2414/spring-petclinic/blob/master/Figures/maven2.png)
+
+
+
+
+
+
 ![Figures/.Maven Passingjpg](https://github.com/HARRY2414/spring-petclinic/blob/master/Figures/Maven%20Passing.png)
 
 
