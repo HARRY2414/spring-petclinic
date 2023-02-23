@@ -6,10 +6,14 @@ changed to update the badge.
 
 
 
+
+
 ---> This Image shows- GitHub Actions dashboard showing a successful first build.
 
 
 ![Figures/.Maven Passingjpg](https://github.com/HARRY2414/spring-petclinic/blob/master/Figures/Maven%20Passing.png)
+
+
 
 
 
@@ -18,3 +22,13 @@ status after you’ve updated the badge markdown.
 
 
 ![Figures/.Updated badgejpg](https://github.com/HARRY2414/spring-petclinic/blob/master/Figures/Updated%20badge.png)
+
+
+
+
+---> This Image shows - The section of the POM file showing the coordinates after you’ve commented them
+out.
+
+
+![Figures/.POM.XMLjpg](https://github.com/HARRY2414/spring-petclinic/blob/master/Figures/POM.XML.png)
+
